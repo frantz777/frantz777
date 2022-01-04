@@ -1,7 +1,6 @@
 - Hi, I’m @frantz777
 - I’m just finished my graduate mechanical engineering program with a concentration in robotics and control
 - I’m currently improving my coding abilities in relation to robotics by working on arduino/esp32 projects
-- I’m looking to collaborate on ...
 - How to reach me ... frantz777@gmail.com
 
 <!---
